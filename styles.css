@@ -1,0 +1,52 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+label{
+	display: block;
+}
+
+input [type="text"],
+input[type="email"] {
+	border: 1px solid #cccccc;
+	border-radius: 2px;
+	padding: 0.5rem 0.7rem;
+
+}
+.form-group {
+	margin-bottom: 1rem;
+}
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
